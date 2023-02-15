@@ -1,0 +1,9 @@
+Packages/
+Logs/
+Library/
+Temp/
+
+Assets/Interactive Framework/Multiplayer/Mirror
+
+*.csproj
+*.sln
